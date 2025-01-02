@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prithika Sambath Kumar
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in Vlsi design flow
+- 🌱 I’m currently learning Vlsi design course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prithikas.22ece@kongu.edu
 - 😄 Pronouns: ...
